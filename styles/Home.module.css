@@ -1,0 +1,23 @@
+.title {
+    /* background-color: rgba(239, 46, 46, 0.027); */
+    color: #333;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom: 1px solid #aeaeae;
+}
+
+.text {
+    color: #777;
+}
+
+.btn {
+    display: block;
+    width: 150px;
+    padding: 8px 0;
+    margin: 20px auto;
+    background: #4979ff;
+    border-radius: 4px;
+    color: white;
+    text-align: center;
+}
